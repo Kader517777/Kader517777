@@ -7,6 +7,7 @@
 
 <p align="center">
     <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kader517777&theme=nord_bright&exclude={exclude}" alt="Material Bread logo">
+    <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={username}&theme={theme_name}&exclude={exclude}" alt="Material Bread logo">
 </p>
 
 

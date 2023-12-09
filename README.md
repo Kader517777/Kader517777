@@ -1,5 +1,5 @@
 
-![](https://i.ibb.co/99CVygz/Purple-Modern-Digital-Marketing-Banner-1.jpg)
+![](https://i.ibb.co/tbtGwjg/Purple-Modern-Digital-Marketing-Banner-2.jpg)
 
 
 # 📊 Profile's summary:

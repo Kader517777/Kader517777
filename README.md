@@ -1,7 +1,7 @@
 ![](https://i.ibb.co/5WfTvGT/Purple-Modern-Digital-Marketing-Banner.jpg)
 
 
-<picture>
+<picture bg_color='red'>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Kader517777&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"

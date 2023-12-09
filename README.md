@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kader517777&show_icons=true" />
 </picture>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kader517777&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kader517777&show_icons=true)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kader517777&show_icons=true)  
 
 

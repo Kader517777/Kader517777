@@ -6,8 +6,8 @@
    
 
 <p align="center" display='flex'>
-    <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kader517777&theme=nord_bright&exclude={exclude}" alt="Material Bread logo">
-    <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kader517777&theme=nord_bright&exclude={exclude}" alt="Material Bread logo">
+    <img width='50%'  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kader517777&theme=nord_bright&exclude={exclude}" alt="Material Bread logo">
+    <img width='50%'  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kader517777&theme=nord_bright&exclude={exclude}" alt="Material Bread logo">
 </p>
 
 

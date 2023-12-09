@@ -1,4 +1,4 @@
-![](https://i.ibb.co/5WfTvGT/Purple-Modern-Digital-Marketing-Banner.jpg)
+<img src='https://i.ibb.co/t2kg5HG/Purple-Modern-Digital-Marketing-Banner-2.png>
 
 
 # 📊 GitHub Stats:

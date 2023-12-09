@@ -1,4 +1,6 @@
-![u](https://i.ibb.co/t2kg5HG/Purple-Modern-Digital-Marketing-Banner-2.png)
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://i.ibb.co/t2kg5HG/Purple-Modern-Digital-Marketing-Banner-2.png)
 
 
 # 📊 Profile's summary:

@@ -1,7 +1,7 @@
 ![](https://i.ibb.co/t2kg5HG/Purple-Modern-Digital-Marketing-Banner-2.png)
 
 
-# 📊 GitHub Stats:
+# 📊 Profile's summary:
 
    
 

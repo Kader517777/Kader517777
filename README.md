@@ -1,4 +1,4 @@
-![I am MERN devloper](https://i.ibb.co/5WfTvGT/Purple-Modern-Digital-Marketing-Banner.jpg)
+(https://i.ibb.co/5WfTvGT/Purple-Modern-Digital-Marketing-Banner.jpg)
 
 
 
